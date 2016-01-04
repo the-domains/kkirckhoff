@@ -1,0 +1,28 @@
+name: kkirckhoff
+favicon: null
+layout_spectrum: 0.2906768717803061
+typography_spectrum: 0.3544417293742299
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6014935986604542
+  lightness: 0.05626219348050654
+  saturation: 0.19125736318528652
+  rhythmicContrast: 0.793854987481609
+purpose: []
